@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\SOFTWARE\Policies\Microsoft\SQMClient\Windows]
+"CEIPEnable"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\SOFTWARE\Policies\Microsoft\Windows\AppCompat]
+"AITEnable"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\SOFTWARE\Policies\Microsoft\Windows\AppCompat]
+"DisableUAR"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\SOFTWARE\Policies\Microsoft\Windows\DataCollection]
+"AllowTelemetry"=dword:00000000
