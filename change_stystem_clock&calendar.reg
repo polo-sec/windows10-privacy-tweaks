@@ -1,0 +1,7 @@
+Key path: HKEY_LOCAL_MACHINE\Software\Microsoft\ Windows\CurrentVersion\ImmersiveShell
+
+New Value Name: UseWin32TrayClockExperience
+
+Type: DWORD (32-bit)
+
+Default Data Value: 0

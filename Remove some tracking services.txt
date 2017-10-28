@@ -1,0 +1,11 @@
+1.) Open up the Group Policy Editor by launching gpedit.msc as an administrator. 
+2.) Go through Computer Configuration > Administrative Templates > Windows Components > Data Collection and Preview Builds. 
+3.) Double click Telemetry, hit Disabled, then apply. 
+#
+NOTE: This only truly works in the Enterprise edition, but the final step provides a decent enough workaround for Pro users.
+
+1.) Open up the Registry Editor by launching regedit as an administrator. 
+2.) Go through HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\DataCollection. 
+3.) select AllowTelemetry, change its value to 0, then apply.
+
+	{only one that works is the host block on home and pro. the other two seems pointless.}
