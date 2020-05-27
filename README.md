@@ -10,6 +10,3 @@ RULES:
 
 DISCLOSURE (please read)
 I hold no accountability for anything that may happen to your system on use of these tools, they are unofficial tweaks and, therefore are making changes Microsoft have not ordinarily allowed the user to make in the GUI itself. Therefore take into account the risk factor involved in this before using any of these tools. I would HIGHLY suggest creating a system backup point before using any of these tweaks and backing up any personal data.
-Updates
-
-~ Decreased the size of released code [28/9/17]
